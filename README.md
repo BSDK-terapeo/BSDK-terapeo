@@ -1,8 +1,8 @@
 - 👋 Hi, I’m Abdullah
 - 👀 I’m interested in Interesting Projects
-- 🌱 I’m currently learning ReactJs
+- 🌱 I’m currently learning LLM's and Gen AI 
 - 💞️ I’m looking to collaborate on Anything!
-- 📫 Rech me @ abdullah.iftikhar6542@gmail.com
+- 📫 Rech me @ abdla.iftkhr@gmail.com
 
 <!---
 BSDK-terapeo/BSDK-terapeo is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
